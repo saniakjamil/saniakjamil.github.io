@@ -1,0 +1,11 @@
+$primary-color: #252323;
+$secondary-color: #f7b401;
+$tertiary-color: #f4f4f4;
+$accent-color: #124e78;
+$light-color: #7f7f7f;
+
+// Theory: primary color for text, secondary as main contrast, tertiary for otherrrr etc, accent for CTA etc, light-color: helper etc!
+
+p {
+  color: $primary-color;
+}
